@@ -123,3 +123,14 @@ Este proyecto fue desarrollado con fines educativos.
 
 ## Conclusión
 Este trabajo práctico permitió repasar conceptos fundamentales de funciones en Python: parámetros posicionales, keyword-only (`*`), valores por defecto, parámetros opcionales (`None` como sentinel) y retorno de valores. Se aplicó tipado implícito y se verificó el funcionamiento mediante pruebas manuales. Estos conceptos son base para proyectos más complejos y reutilizables.
+
+## GitHub Helpers
+- [GitDiagram](https://gitdiagram.com/enzo-salveem/trabajoPracticoFunciones)
+- [Gitingest](https://gitingest.com/https://github.com/enzo-salveem/trabajoPracticoFunciones)
+- [RepoGrep](https://repogrep.com/enzo-salveem/trabajoPracticoFunciones)
+- [DeepWiki](https://deepwiki.com/enzo-salveem/trabajoPracticoFunciones)
+- [GitHub1s](https://github1s.com/enzo-salveem/trabajoPracticoFunciones/tree/main)
+
+
+
+
